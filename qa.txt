@@ -1,0 +1,17 @@
+QA (ASEGURAMIENTO DE LA CALIDAD):
+Es el conjunto de actividades y procesos que buscan prevenir
+errores y garantizar que el desarrollo del software cumpla
+con los estándares de calidad establecidos.
+
+TESTING (PRUEBAS):
+Es el proceso de ejecutar y evaluar un software para detectar errores
+y comprobar que funciona correctamente según los requerimientos.
+
+DIFERENCIAS:
+QA se enfoca en prevenir defectos y mejorar el proceso de desarrollo.
+Testing se enfoca en comprobar el producto mediante pruebas para encontrar errores.
+
+OBJETIVOS:
+QA busca mejorar la calidad durante todo el desarrollo y evitar problemas.
+Testing busca detectar fallas, verificar el funcionamiento y comprobar que
+el sistema cumpla con lo solicitado.
