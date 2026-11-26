@@ -1,0 +1,26 @@
+COMO FUNCIONA SCRUM?
+Scrum es un marco de trabajo ágil que permite desarrollar software
+de manera incremental, organizando el trabajo en períodos cortos
+llamados Sprints. El equipo planifica, desarrolla, revisa y mejora continuamente.
+
+ROLES:
+-Product Owner: representa las necesidades del cliente y prioriza el Product Backlog.
+-Scrum Master: facilita Scrum, ayuda al equipo y elimina impedimentos.
+-Developers: desarrollan y entregan el producto.
+
+ARTEFACTOS:
+-Product Backlog: lista priorizada de necesidades del producto.
+-Sprint Backlog: tareas y elementos seleccionados para el Sprint.
+-Incremento: resultado funcional obtenido durante el trabajo.
+
+EVENTOS O CEREMONIAS:
+-Sprint Planning: se planifica el trabajo.
+-Daily Scrum: reunión diaria para coordinar avances y obstáculos.
+-Sprint Review: se presenta y revisa el resultado.
+-Sprint Retrospective: se analiza el trabajo y se proponen mejoras.
+
+QUE ES UN SPRINT?
+Es un período de tiempo fijo, de un mes o menos, durante el cual el
+equipo trabaja para alcanzar un objetivo y producir un incremento funcional.
+Comienza con la planificación, continúa con el desarrollo y las reuniones diarias,
+y finaliza con la revisión y retrospectiva. Luego comienza un nuevo Sprint.
